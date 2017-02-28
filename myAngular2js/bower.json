@@ -1,0 +1,16 @@
+{
+    "name": "Angular2",
+    "version": "1.0.0",
+    "authors": [
+        "Ivar",
+        "Sgar"
+    ],
+    "description": "Angular2 JavaScript dependencies.",
+    "private": true,
+    "dependencies": {
+        "angular": "1.2.0",
+        "jquery": "1.9.1",
+        "angular-bootstrap": "0.10.0",
+        "angular-grid": "2.0.7"
+    }
+}
