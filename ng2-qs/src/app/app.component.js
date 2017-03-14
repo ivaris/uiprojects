@@ -2,7 +2,7 @@
   app.AppComponent =
     ng.core.Component({
       selector: 'my-app',
-      template: '<h1>Yellow Angular</h1>'
+      template: '<h1>Hello Ng</h1>'
     })
     .Class({
       constructor: function() {}
